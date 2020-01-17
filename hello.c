@@ -5,5 +5,6 @@ Date: 201x/xx/xx
 #include <stdio.h>
 int main(void) {
 printf("Hello World!\n");
+printf("software engineering is my major\n");
 return 0;
 }
