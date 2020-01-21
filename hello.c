@@ -1,6 +1,6 @@
 /* "Hello World", My first program
 Name: Your Name
-Date: 201x/xx/xx
+Date: 2020/01/19
 */
 #include <stdio.h>
 int main(void) {
