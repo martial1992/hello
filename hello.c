@@ -1,5 +1,5 @@
 /* "Hello World", My first program
-Name: Your Name
+Name: Martial Sandeu
 Date: 2020/01/21
 */
 #include <stdio.h>
